@@ -1,11 +1,12 @@
 # network_dork_scanner
+
 #ENGLİSH:
 
 Step1:
 
-Run gerekenler.py (Terminal or CMD python gerekenler.py) Easy Way: Drag gerekenler.py, drop CMD/Terminal screen
+Run  gerekenler.py (Terminal or CMD python gerekenler.py) Easy Way: Drag gerekenler.py, drop CMD/Terminal screen
 
-Or write terminal or CMD and run pip install google
+Or write terminal or CMD and run pip install google 
 
 Wait installing modules.
 
@@ -13,7 +14,7 @@ Exit
 
 Step2:
 
--Run program_calistir.py (Terminal or CMD python program_calistir.py) Windows and Linux easy way: Drag program_calistir.py, drop CMD/Terminal screen
+-Run  program_calistir.py (Terminal or CMD python program_calistir.py) Windows and Linux easy way: Drag program_calistir.py, drop CMD/Terminal screen
 
 -Select Dork Type
 
@@ -24,6 +25,7 @@ Step2:
 -Choose the number of sites
 
 :) Good luck
+
 
 #TURKİSH:
 
@@ -37,9 +39,9 @@ Modüllerin yüklenmesini bekleyin, bitince kapatabilirsiniz.
 
 Step2:
 
-program_calistir.py Çalıştırın (Terminal veya CMD python program_calistir.py yazarak çalıştırın.) Kolay yolu: Dizine cd ile gitmek yerine dosyayı sürükleyerek CMD/Terminal ekranına bırakın.
+- program_calistir.py Çalıştırın (Terminal veya CMD python program_calistir.py yazarak çalıştırın.) Kolay yolu: Dizine cd ile gitmek yerine dosyayı sürükleyerek CMD/Terminal ekranına bırakın.
 
-Program Çalışınca Dork Tipini Seçin
+- Program Çalışınca Dork Tipini Seçin
 
 -Dil veya Ülke kodunu seçin
 
